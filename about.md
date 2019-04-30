@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Writing space
 permalink: /about/
 ---
 
-Some information about you!
+感性生活 理性工作
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Just do it to be yourself
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+zhigang1991@outlook.com
