@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: An individual space for writing
 permalink: /about/
 ---
 
-Some information about you!
+Hey my friend! Let's have a pure reading for explore
 
-### More Information
+### More Information about here
 
-A place to include any other types of information that you'd like to include about yourself.
+New finding
+Knowledge sharing
+Emotion noting
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+zhigang1991@outlook.com  wechat:Zian741
